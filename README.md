@@ -2,9 +2,6 @@
 
 > **Privacy-first regulatory compliance SaaS** — Prove KYC/AML and solvency to auditors without revealing account balances, transaction details, or counterparty identities.
 
-[![CI](https://github.com/your-org/zeroproof/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/zeroproof/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ---
 
 ## The Privacy Problem in Finance Compliance
